@@ -1,2 +1,2 @@
 library(tidyverse)
-library(RPostgres) # used in data science
+library(RPostgres)
